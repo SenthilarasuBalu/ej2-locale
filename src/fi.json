@@ -3369,6 +3369,18 @@
     },
     "stepper": {
       "optional": "Valinnainen"
+    },
+    "aiassistview": {
+      "stopResponseText": "Lopeta vastaaminen"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Tietueita ei löytynyt"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} kirjoittaa",
+      "twoUserTyping": "{0} ja {1} kirjoittavat",
+      "threeUserTyping": "{0}, {1} ja {2} muuta kirjoittavat",
+      "multipleUsersTyping": "{0}, {1} ja {2} muuta kirjoittavat"
     }
   }
 }

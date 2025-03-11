@@ -3370,6 +3370,18 @@
     },
     "stepper": {
       "optional": "אופציונאלי"
+    },
+    "aiassistview": {
+      "stopResponseText": "הפסק להגיב"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "לא נמצאו רשומות"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} מקליד",
+      "twoUserTyping": "{0} ו-{1} מקלידים",
+      "threeUserTyping": "{0}, {1} ו-{2} אחרים מקלידים",
+      "multipleUsersTyping": "{0}, {1} ו-{2} אחרים מקלידים"
     }
   }
 }

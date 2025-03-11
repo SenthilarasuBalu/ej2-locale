@@ -3370,6 +3370,18 @@
     },
     "stepper": {
       "optional": "İsteğe bağlı"
+    },
+    "aiassistview": {
+      "stopResponseText": "Yanıt Vermeyi Durdur"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Hiçbir kayıt bulunamadı"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} yazıyor",
+      "twoUserTyping": "{0} ve {1} yazıyor",
+      "threeUserTyping": "{0}, {1} ve {2} kişi daha yazıyor",
+      "multipleUsersTyping": "{0}, {1} ve {2} kişi daha yazıyor"
     }
   }
 }

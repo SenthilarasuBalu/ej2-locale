@@ -3370,6 +3370,18 @@
     },
     "stepper": {
       "optional": "Opsional"
+    },
+    "aiassistview": {
+      "stopResponseText": "Berhenti Merespons"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Tidak ada catatan yang ditemukan"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} sedang mengetik",
+      "twoUserTyping": "{0} dan {1} sedang mengetik",
+      "threeUserTyping": "{0}, {1}, dan {2} lainnya sedang mengetik",
+      "multipleUsersTyping": "{0}, {1}, dan {2} lainnya sedang mengetik"
     }
   }
 }

@@ -3370,6 +3370,18 @@
     },
     "stepper": {
       "optional": "オプション"
+    },
+    "aiassistview": {
+      "stopResponseText": "応答を停止する"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "レコードが見つかりません"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} が入力中です",
+      "twoUserTyping": "{0} と {1} が入力中です",
+      "threeUserTyping": "{0}、{1}、他 {2} 人が入力中です",
+      "multipleUsersTyping": "{0}、{1}、他 {2} 人が入力中です"
     }
   }
 }

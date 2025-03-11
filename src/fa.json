@@ -3248,6 +3248,18 @@
     },
     "stepper": {
       "optional": "اختیاری"
+    },
+    "aiassistview": {
+      "stopResponseText": "پاسخ دادن را متوقف کنید"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "هیچ رکوردی یافت نشد"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} در حال تایپ است",
+      "twoUserTyping": "{0} و {1} در حال تایپ هستند",
+      "threeUserTyping": "{0}، {1}، و {2} نفر دیگر در حال تایپ هستند",
+      "multipleUsersTyping": "{0}، {1}، و {2} نفر دیگر در حال تایپ هستند"
     }
   }
 }

@@ -3195,6 +3195,18 @@
     },
     "stepper": {
       "optional": "Valfrjálst"
+    },
+    "aiassistview": {
+      "stopResponseText": "Hættu að svara"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Engar skrár fundust"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} er að skrifa",
+      "twoUserTyping": "{0} og {1} eru að skrifa",
+      "threeUserTyping": "{0}, {1} og {2} í viðbót eru að skrifa",
+      "multipleUsersTyping": "{0}, {1} og {2} aðrir eru að skrifa"
     }
   }
 }

@@ -3371,6 +3371,18 @@
     },
     "stepper": {
       "optional": "Opzionale"
+    },
+    "aiassistview": {
+      "stopResponseText": "Bloccarsi"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Nessun record trovato"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} sta scrivendo",
+      "twoUserTyping": "{0} e {1} stanno scrivendo",
+      "threeUserTyping": "{0}, {1} e altri {2} stanno digitando",
+      "multipleUsersTyping": "{0}, {1} e altri {2} stanno digitando"
     }
   }
 }

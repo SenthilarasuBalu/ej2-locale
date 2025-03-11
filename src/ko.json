@@ -3370,6 +3370,18 @@
     },
     "stepper": {
       "optional": "선택 과목"
+    },
+    "aiassistview": {
+      "stopResponseText": "응답 중지"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "기록이 없습니다"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0}님이 입력 중입니다",
+      "twoUserTyping": "{0}님과 {1}님이 입력 중입니다",
+      "threeUserTyping": "{0}님, {1}님 외 {2}명이 입력 중입니다.",
+      "multipleUsersTyping": "{0}님, {1}님 외 {2}명이 입력 중입니다."
     }
   }
 }

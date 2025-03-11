@@ -3372,6 +3372,18 @@
     },
     "stepper": {
       "optional": "ऐच्छिक"
+    },
+    "aiassistview": {
+      "stopResponseText": "प्रतिक्रिया दिन रोक्नुहोस्"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "कुनै रेकर्ड फेला परेन"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} टाइप गर्दै हुनुहुन्छ",
+      "twoUserTyping": "{0} र {1} टाइप गर्दै हुनुहुन्छ",
+      "threeUserTyping": "{0}, {1}, र {2} अन्य टाइप गर्दै छन्",
+      "multipleUsersTyping": "{0}, {1}, र {2} अन्य टाइप गर्दै छन्"
     }
   }
 }

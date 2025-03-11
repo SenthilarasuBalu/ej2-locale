@@ -3370,6 +3370,18 @@
     },
     "stepper": {
       "optional": "Választható"
+    },
+    "aiassistview": {
+      "stopResponseText": "Nem válaszol"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Nem található rekord"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} gépel",
+      "twoUserTyping": "{0} és {1} gépel",
+      "threeUserTyping": "{0}, {1} és további {2} személy gépel",
+      "multipleUsersTyping": "{0}, {1} és további {2} személy gépel"
     }
   }
 }

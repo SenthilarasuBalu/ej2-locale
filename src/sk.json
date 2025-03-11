@@ -3370,6 +3370,18 @@
     },
     "stepper": {
       "optional": "Voliteľné"
+    },
+    "aiassistview": {
+      "stopResponseText": "Prestať reagovať"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Nenašli sa žiadne záznamy"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} píše",
+      "twoUserTyping": "{0} a {1} píšu",
+      "threeUserTyping": "{0}, {1} a ďalší ({2}) píšu",
+      "multipleUsersTyping": "{0}, {1} a ďalší ({2}) píšu"
     }
   }
 }

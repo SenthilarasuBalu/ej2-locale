@@ -3370,6 +3370,18 @@
     },
     "stepper": {
       "optional": "Neobavezno"
+    },
+    "aiassistview": {
+      "stopResponseText": "Prestanite reagirati"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Nema pronađenih zapisa"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} piše",
+      "twoUserTyping": "{0} i {1} pišu",
+      "threeUserTyping": "{0}, {1} i još {2} pišu",
+      "multipleUsersTyping": "{0}, {1} i još {2} pišu"
     }
   }
 }

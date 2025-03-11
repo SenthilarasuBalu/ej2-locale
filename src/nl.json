@@ -3374,6 +3374,18 @@
     },
     "stepper": {
       "optional": "Optioneel"
+    },
+    "aiassistview": {
+      "stopResponseText": "Niet meer reageren"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Geen gegevens gevonden"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} is aan het typen",
+      "twoUserTyping": "{0} en {1} zijn aan het typen",
+      "threeUserTyping": "{0}, {1} en {2} anderen zijn aan het typen",
+      "multipleUsersTyping": "{0}, {1} en {2} anderen zijn aan het typen"
     }
   }
 }

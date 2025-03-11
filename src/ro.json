@@ -3373,6 +3373,18 @@
     },
     "stepper": {
       "optional": "Opțional"
+    },
+    "aiassistview": {
+      "stopResponseText": "Răspundă"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Nu au fost găsite înregistrări"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} tastează",
+      "twoUserTyping": "{0} și {1} tastează",
+      "threeUserTyping": "{0}, {1} și încă {2} tastează",
+      "multipleUsersTyping": "{0}, {1} și încă {2} tastau"
     }
   }
 }

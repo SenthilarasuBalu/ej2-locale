@@ -3369,6 +3369,18 @@
     },
     "stepper": {
       "optional": "Valgfri"
+    },
+    "aiassistview": {
+      "stopResponseText": "Stop med at svare"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Ingen registreringer fundet"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} skriver",
+      "twoUserTyping": "{0} og {1} skriver",
+      "threeUserTyping": "{0}, {1} og {2} andre skriver",
+      "multipleUsersTyping": "{0}, {1} og {2} andre skriver"
     }
   }
 }

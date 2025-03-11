@@ -3372,6 +3372,18 @@
     },
     "stepper": {
       "optional": "Необязательный"
+    },
+    "aiassistview": {
+      "stopResponseText": "Перестаньте отвечать"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Записи не найдены"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} печатает",
+      "twoUserTyping": "{0} и {1} печатают",
+      "threeUserTyping": "{0}, {1} и ещё {2} человек печатают",
+      "multipleUsersTyping": "{0}, {1} и еще {2} человека печатают"
     }
   }
 }

@@ -3371,6 +3371,18 @@
     },
     "stepper": {
       "optional": "خياري"
+    },
+    "aiassistview": {
+      "stopResponseText": "إيقاف الاستجابة"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "لم يتم العثور على أي سجلات"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} يكتب",
+      "twoUserTyping": "{0} و{1} يكتبان",
+      "threeUserTyping": "{0} و{1} و{2} آخرون يكتبون",
+      "multipleUsersTyping": "{0} و{1} و{2} آخرون يكتبون"
     }
   }
 } 

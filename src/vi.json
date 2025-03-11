@@ -3370,6 +3370,18 @@
     },
     "stepper": {
       "optional": "Không bắt buộc"
+    },
+    "aiassistview": {
+      "stopResponseText": "Ngừng phản hồi"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Không tìm thấy hồ sơ nào"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} đang gõ",
+      "twoUserTyping": "{0} và {1} đang nhập",
+      "threeUserTyping": "{0}, {1} và {2} người khác đang nhập",
+      "multipleUsersTyping": "{0}, {1} và {2} người khác đang nhập"
     }
   }
 }

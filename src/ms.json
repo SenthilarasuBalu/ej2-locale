@@ -3370,6 +3370,18 @@
     },
     "stepper": {
       "optional": "Pilihan"
+    },
+    "aiassistview": {
+      "stopResponseText": "Berhenti Bertindak Balas"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "Tiada rekod ditemui"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} sedang menaip",
+      "twoUserTyping": "{0} dan {1} sedang menaip",
+      "threeUserTyping": "{0}, {1} dan {2} yang lain sedang menaip",
+      "multipleUsersTyping": "{0}, {1} dan {2} yang lain sedang menaip"
     }
   }
 }

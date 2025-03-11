@@ -3372,6 +3372,18 @@
     },
     "stepper": {
       "optional": "Optional"
+    },
+    "aiassistview": {
+      "stopResponseText": "Stop Responding"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "No Records Found"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} is typing",
+      "twoUserTyping": "{0} and {1} are typing",
+      "threeUserTyping": "{0}, {1}, and {2} other are typing",
+      "multipleUsersTyping": "{0}, {1}, and {2} others are typing"
     }
   }
 }
